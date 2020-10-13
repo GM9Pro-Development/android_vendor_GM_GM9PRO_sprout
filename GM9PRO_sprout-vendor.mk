@@ -308,6 +308,9 @@ PRODUCT_COPY_FILES += \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sensor_def_qcomdev.conf \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/wifi/aoa_cldb_falcon.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_falcon.bin \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/wifi/aoa_cldb_swl14.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_swl14.bin \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/wifi/qca_cld3_wlan.ko:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/qca_cld3_wlan.ko \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/xtwifi.conf:$(TARGET_COPY_OUT_VENDOR)/etc/xtwifi.conf \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/firmware/Google_model_new.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Google_model_new.bin \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/firmware/VT_D4_ver_392_OKG.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/VT_D4_ver_392_OKG.bin \
