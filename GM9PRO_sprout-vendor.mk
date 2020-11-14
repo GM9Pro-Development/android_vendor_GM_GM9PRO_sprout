@@ -255,6 +255,17 @@ PRODUCT_COPY_FILES += \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/acdbdata/QRD/sdm660-tasha-skus-snd-card/QRD_SKUS_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/sdm660-tasha-skus-snd-card/QRD_SKUS_Speaker_cal.acdb \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/acdbdata/QRD/sdm660-tasha-skus-snd-card/QRD_SKUS_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/sdm660-tasha-skus-snd-card/QRD_SKUS_workspaceFile.qwsp \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/camera/camera_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camera_config.xml \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/camera/csidtg_camera.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/csidtg_camera.xml \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/camera/csidtg_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/csidtg_chromatix.xml \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/camera/imx363_ofilm_ogc0830_back1_i_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/imx363_ofilm_ogc0830_back1_i_chromatix.xml \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/camera/imx363_ofilm_ogc1195_back1_i_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/imx363_ofilm_ogc1195_back1_i_chromatix.xml \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/camera/imx363_sunny_a12n12c_back1_ii_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/imx363_sunny_a12n12c_back1_ii_chromatix.xml \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/camera/s5k3h7_ofilm_off1012_front_iii_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3h7_ofilm_off1012_front_iii_chromatix.xml \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/camera/s5k3h7_sunny_a8s05a_front_i_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3h7_sunny_a8s05a_front_i_chromatix.xml \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/camera/s5k3h7_tsp_lcs8f01_front_ii_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3h7_tsp_lcs8f01_front_ii_chromatix.xml \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/camera/s5k4h8_ofilm_ogc0831_back2_i_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k4h8_ofilm_ogc0831_back2_i_chromatix.xml \
+    vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/camera/s5k4h8_sunny_d8s09b_back2_ii_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k4h8_sunny_d8s09b_back2_ii_chromatix.xml \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile1.xml \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile2.xml \
     vendor/GM/GM9PRO_sprout/proprietary/vendor/etc/cne/wqeclient/ATT/ATT_profile3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/ATT/ATT_profile3.xml \
