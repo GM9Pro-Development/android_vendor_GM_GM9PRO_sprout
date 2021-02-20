@@ -1435,5 +1435,4 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     QFingerprintService \
     PowerOffAlarm \
-    TimeService \
-    aptxals
+    TimeService
